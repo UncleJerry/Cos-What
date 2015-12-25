@@ -1,0 +1,162 @@
+
+/* Class = "UILabel"; text = "Illustrated by 帕塔工作室"; ObjectID = "11l-5D-dbR"; */
+"11l-5D-dbR.text" = "Illustrated by 帕塔工作室";
+
+/* Class = "UILabel"; text = "日"; ObjectID = "36u-ue-31X"; */
+"36u-ue-31X.text" = "日";
+
+/* Class = "UILabel"; text = "日"; ObjectID = "627-9U-dS2"; */
+"627-9U-dS2.text" = "日";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "6sq-bV-E3f"; */
+"6sq-bV-E3f.title" = "Title";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "7eg-cW-4pA"; */
+"7eg-cW-4pA.text" = "Title";
+
+/* Class = "UILabel"; text = "Programmed by 小明"; ObjectID = "8sa-yR-Ihv"; */
+"8sa-yR-Ihv.text" = "Programmed by 小明";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9TD-1C-Ek8"; */
+"9TD-1C-Ek8.text" = "Label";
+
+/* Class = "UILabel"; text = "CN:"; ObjectID = "C58-a6-DFe"; */
+"C58-a6-DFe.text" = "CN:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EE4-Lc-Lr4"; */
+"EE4-Lc-Lr4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FTy-Tq-nYi"; */
+"FTy-Tq-nYi.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gcr-eQ-Pcx"; */
+"Gcr-eQ-Pcx.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "自戀"; ObjectID = "HHP-ic-NLY"; */
+"HHP-ic-NLY.title" = "自戀";
+
+/* Class = "UILabel"; text = "關於愚蠢的作者"; ObjectID = "HMC-FK-igz"; */
+"HMC-FK-igz.text" = "關於愚蠢的作者";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IM8-Nk-XtI"; */
+"IM8-Nk-XtI.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "計劃"; ObjectID = "Jw1-7O-yqr"; */
+"Jw1-7O-yqr.title" = "計劃";
+
+/* Class = "UIBarButtonItem"; title = "編輯"; ObjectID = "LGt-oJ-Jhy"; */
+"LGt-oJ-Jhy.title" = "編輯";
+
+/* Class = "UILabel"; text = "Mail: jerrychou233@gmail.com"; ObjectID = "LNk-As-L0d"; */
+"LNk-As-L0d.text" = "Mail: jerrychou233@gmail.com";
+
+/* Class = "UINavigationItem"; title = "外景人員"; ObjectID = "NXg-op-kwO"; */
+"NXg-op-kwO.title" = "外景人員";
+
+/* Class = "UILabel"; text = "Ver."; ObjectID = "Orw-BH-BCY"; */
+"Orw-BH-BCY.text" = "Ver.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OsW-ac-w14"; */
+"OsW-ac-w14.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "怒碼"; ObjectID = "R1A-9R-JCQ"; */
+"R1A-9R-JCQ.title" = "怒碼";
+
+/* Class = "UILabel"; text = "年"; ObjectID = "SP5-CG-zUh"; */
+"SP5-CG-zUh.text" = "年";
+
+/* Class = "UILabel"; text = "月"; ObjectID = "Sa8-bz-ejO"; */
+"Sa8-bz-ejO.text" = "月";
+
+/* Class = "UILabel"; text = "版本"; ObjectID = "TgP-4k-cmo"; */
+"TgP-4k-cmo.text" = "版本";
+
+/* Class = "UILabel"; text = "要出誰？"; ObjectID = "UPh-dU-oYV"; */
+"UPh-dU-oYV.text" = "要出誰？";
+
+/* Class = "UIBarButtonItem"; title = "妥了"; ObjectID = "VJJ-i2-56e"; */
+"VJJ-i2-56e.title" = "妥了";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "X5N-PE-z8R"; */
+"X5N-PE-z8R.title" = "Item";
+
+/* Class = "UIBarButtonItem"; title = "人員"; ObjectID = "XAY-Wk-Rgx"; */
+"XAY-Wk-Rgx.title" = "人員";
+
+/* Class = "UIBarButtonItem"; title = "碼"; ObjectID = "XNs-He-4h9"; */
+"XNs-He-4h9.title" = "碼";
+
+/* Class = "UILabel"; text = "職務:"; ObjectID = "azc-34-oSx"; */
+"azc-34-oSx.text" = "職務:";
+
+/* Class = "UILabel"; text = "@辣個小明 求粉qwq這裡是coser+攝影"; ObjectID = "c8m-U5-qi2"; */
+"c8m-U5-qi2.text" = "如果app君傲嬌了去微博@辣个小明 哦";
+
+/* Class = "UILabel"; text ="我会把app君调教地越来越聪明的说"; ObjectID = "UfM-AG-grX"; */
+"UfM-AG-grX.text" = "我會把app君調教地越來越聰明的說";
+
+/* Class = "UILabel"; text = "時間"; ObjectID = "eOL-a6-qie"; */
+"eOL-a6-qie.text" = "時間";
+
+/* Class = "UINavigationItem"; title = "設置"; ObjectID = "eaJ-1V-zmd"; */
+"eaJ-1V-zmd.title" = "設置";
+
+/* Class = "UINavigationItem"; title = "添加裝備"; ObjectID = "f9j-dK-znf"; */
+"f9j-dK-znf.title" = "添加裝備";
+
+/* Class = "UILabel"; text = "出自"; ObjectID = "fy1-jg-S8E"; */
+"fy1-jg-S8E.text" = "出自";
+
+/* Class = "UIBarButtonItem"; title = "碼"; ObjectID = "gAm-Sl-6TW"; */
+"gAm-Sl-6TW.title" = "碼";
+
+/* Class = "UILabel"; text = "出自"; ObjectID = "gTX-xY-0Vp"; */
+"gTX-xY-0Vp.text" = "出自";
+
+/* Class = "UINavigationItem"; title = "添加人員"; ObjectID = "ge8-Nt-h7J"; */
+"ge8-Nt-h7J.title" = "添加人員";
+
+/* Class = "UINavigationItem"; title = "添加計劃"; ObjectID = "gmp-8F-FbN"; */
+"gmp-8F-FbN.title" = "添加計劃";
+
+/* Class = "UIBarButtonItem"; title = "裝備"; ObjectID = "kTN-te-wrr"; */
+"kTN-te-wrr.title" = "裝備";
+
+/* Class = "UILabel"; text = "按照時間排序"; ObjectID = "mcB-ds-37F"; */
+"mcB-ds-37F.text" = "按照時間排序";
+
+/* Class = "UILabel"; text = "已經get了嗎"; ObjectID = "muB-NE-ZfN"; */
+"muB-NE-ZfN.text" = "已經get了嗎";
+
+/* Class = "UIBarButtonItem"; title = "設置"; ObjectID = "qUG-kq-Sxs"; */
+"qUG-kq-Sxs.title" = "設置";
+
+/* Class = "UILabel"; text = "月"; ObjectID = "qgF-zA-JdL"; */
+"qgF-zA-JdL.text" = "月";
+
+/* Class = "UILabel"; text = "年"; ObjectID = "qvr-db-XbN"; */
+"qvr-db-XbN.text" = "年";
+
+/* Class = "UILabel"; text = "Subtitle"; ObjectID = "u5Z-e5-nne"; */
+"u5Z-e5-nne.text" = "Subtitle";
+
+/* Class = "UIBarButtonItem"; title = "別自戀了"; ObjectID = "ugV-dM-56F"; */
+"ugV-dM-56F.title" = "別自戀了";
+
+/* Class = "UINavigationItem"; title = "裝備"; ObjectID = "vhK-AL-g07"; */
+"vhK-AL-g07.title" = "裝備";
+
+/* Class = "UILabel"; text = "Tested by 澳門科技大學萬事不干屋"; ObjectID = "xOu-yT-YbV"; */
+"xOu-yT-YbV.text" = "Tested by 澳門科技大學萬事不干屋";
+
+/* Class = "UILabel"; text = "裝備名"; ObjectID = "xsI-Hi-gDI"; */
+"xsI-Hi-gDI.text" = "裝備名";
+
+/* Class = "UILabel"; text = "要出誰？"; ObjectID = "y5b-88-C4S"; */
+"y5b-88-C4S.text" = "要出誰？";
+
+/* Class = "UILabel"; text = "時間"; ObjectID = "ysU-gX-SAD"; */
+"ysU-gX-SAD.text" = "時間";
+
+/* Class = "UINavigationItem"; title = "編輯"; ObjectID = "zRI-mg-32r"; */
+"zRI-mg-32r.title" = "編輯";

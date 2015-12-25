@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "按照时间排序"; ObjectID = "2dM-Rg-XjT"; */
+"2dM-Rg-XjT.text" = "按照时间排序";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "6sq-bV-E3f"; */
+"6sq-bV-E3f.title" = "Title";
+
+/* Class = "UITextField"; placeholder = "可以暂时不填"; ObjectID = "9Ln-Sh-jks"; */
+"9Ln-Sh-jks.placeholder" = "可以暂时不填";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9TD-1C-Ek8"; */
+"9TD-1C-Ek8.text" = "Label";
+
+/* Class = "UILabel"; text = "妆娘"; ObjectID = "BRY-fC-66M"; */
+"BRY-fC-66M.text" = "妆娘";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EE4-Lc-Lr4"; */
+"EE4-Lc-Lr4.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gcr-eQ-Pcx"; */
+"Gcr-eQ-Pcx.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "安排"; ObjectID = "Gcz-20-VpI"; */
+"Gcz-20-VpI.title" = "安排";
+
+/* Class = "UITextField"; placeholder = "最多写10项，用逗号隔开"; ObjectID = "Ifv-jO-lkp"; */
+"Ifv-jO-lkp.placeholder" = "最多写10项，用逗号隔开";
+
+/* Class = "UINavigationItem"; title = "计划"; ObjectID = "Jw1-7O-yqr"; */
+"Jw1-7O-yqr.title" = "计划";
+
+/* Class = "UIBarButtonItem"; title = "编辑"; ObjectID = "LGt-oJ-Jhy"; */
+"LGt-oJ-Jhy.title" = "编辑";
+
+/* Class = "UILabel"; text = "关于愚蠢的作者"; ObjectID = "NTh-It-yyk"; */
+"NTh-It-yyk.text" = "关于愚蠢的作者";
+
+/* Class = "UILabel"; text = "版本"; ObjectID = "Orw-BH-BCY"; */
+"Orw-BH-BCY.text" = "版本";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OsW-ac-w14"; */
+"OsW-ac-w14.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "怒码"; ObjectID = "R1A-9R-JCQ"; */
+"R1A-9R-JCQ.title" = "怒码";
+
+/* Class = "UIBarButtonItem"; title = "装备"; ObjectID = "R4b-th-wOP"; */
+"R4b-th-wOP.title" = "装备";
+
+/* Class = "UILabel"; text = "关于作者"; ObjectID = "Ra6-IN-Yy6"; */
+"Ra6-IN-Yy6.text" = "关于作者";
+
+/* Class = "UITextField"; placeholder = "可以暂时不填"; ObjectID = "SPN-1A-UcO"; */
+"SPN-1A-UcO.placeholder" = "可以暂时不填";
+
+/* Class = "UINavigationItem"; title = "设置"; ObjectID = "WVf-eM-bEQ"; */
+"WVf-eM-bEQ.title" = "设置";
+
+/* Class = "UILabel"; text = "摄影"; ObjectID = "WWX-Rh-5cE"; */
+"WWX-Rh-5cE.text" = "摄影";
+
+/* Class = "UILabel"; text = "防拖延提醒"; ObjectID = "ciU-h2-Ure"; */
+"ciU-h2-Ure.text" = "防拖延提醒";
+
+/* Class = "UILabel"; text = "出自"; ObjectID = "fy1-jg-S8E"; */
+"fy1-jg-S8E.text" = "出自";
+
+/* Class = "UINavigationItem"; title = "添加计划"; ObjectID = "gmp-8F-FbN"; */
+"gmp-8F-FbN.title" = "添加计划";
+
+/* Class = "UITextView"; text = "感谢各位使用这只蠢货写的第一个渣软件QAQ使用中如遇到任何问题，请戳微博@辣个小明 评论任何一条微博反馈，万分惭愧Orz\n这里cn小明，是coser、是摄影、是后期、也是个程序员。嘛不会出cos的摄影不是好程序员乃我的处事信条，app的所有收入将会给自己的开发者计划回血（每年99刀呢！）另外会拨款给女票买小裙子qwq谢谢大家的支持（这么渣的程序还愿意付一块钱的一定是真爱\n微博@辣个小明\n邮箱jerrychou233@gmail.com"; ObjectID = "gof-5x-gnd"; */
+"gof-5x-gnd.text" = "感谢各位使用这只蠢货写的第一个渣软件QAQ使用中如遇到任何问题，请戳微博@辣个小明 评论任何一条微博反馈，万分惭愧Orz\n这里cn小明，是coser、是摄影、是后期、也是个程序员。嘛不会出cos的摄影不是好程序员乃我的处事信条，app的所有收入将会给自己的开发者计划回血（每年99刀呢！）另外会拨款给女票买小裙子qwq谢谢大家的支持（这么渣的程序还愿意付一块钱的一定是真爱\n微博@辣个小明\n邮箱jerrychou233@gmail.com";
+
+/* Class = "UIBarButtonItem"; title = "保存"; ObjectID = "hQS-4L-VQP"; */
+"hQS-4L-VQP.title" = "保存";
+
+/* Class = "UITableViewController"; title = "设置"; ObjectID = "l4N-Ge-eNM"; */
+"l4N-Ge-eNM.title" = "设置";
+
+/* Class = "UIBarButtonItem"; title = "设置"; ObjectID = "qUG-kq-Sxs"; */
+"qUG-kq-Sxs.title" = "设置";
+
+/* Class = "UILabel"; text = "要出谁？"; ObjectID = "y5b-88-C4S"; */
+"y5b-88-C4S.text" = "要出谁？";
+
+/* Class = "UILabel"; text = "装备"; ObjectID = "yeY-6t-TVD"; */
+"yeY-6t-TVD.text" = "装备";
